@@ -3,10 +3,10 @@
 
 ##INTEGRANTES
 - Alexis Jara
-- Cesar Ramos
+- César Ramos
 - Wagner Balzazar
-- Cesar Lopez
-- Santiago Jimenez
+- César López
+- Santiago Jiménez
 ## Guía para Iniciar el Proyecto de Unity: Tower Defense
 Requisitos Previos
 - Unity Editor: Asegúrate de tener instalada la versión recomendada del Unity Editor para el proyecto. Puedes descargarlo desde Unity Hub.
