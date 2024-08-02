@@ -4,7 +4,7 @@
 ##INTEGRANTES
 - Alexis Jara
 - César Ramos
-- Wagner Balzazar
+- Wagner Balcazar 
 - César López
 - Santiago Jiménez
 ## Guía para Iniciar el Proyecto de Unity: Tower Defense
